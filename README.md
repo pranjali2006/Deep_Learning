@@ -24,7 +24,8 @@ Inside the `ANN` folder, I am learning **Artificial Neural Networks from scratch
 
 ### 💻 Hands-on Practice
 
-The `perceptron_scratch.ipynb` notebook contains my implementation and experimentation with a **Perceptron from scratch using Python and NumPy**.
+The `perceptron_scratch.ipynb` notebook contains my implementation and experimentation with a differnt activation functions in it **Perceptron from scratch using Python and NumPy**.
+
 
 ### 🎯 Goal
 
